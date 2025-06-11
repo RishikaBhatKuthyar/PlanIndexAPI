@@ -127,5 +127,4 @@ https://www.googleapis.com/oauth2/v3/certs
 # Install dependencies and run the server
 npm install
 npm start
-```
 
